@@ -24,7 +24,7 @@ document.getElementById('khodamForm').addEventListener('submit', function(event)
             const newKhodamRef = database.ref('khodams').push();
             newKhodamRef.set({
                 name: name,
-                khodamName: khodam.name,
+                Name: khodam.name,
                 power: khodam.power,
                 description: khodam.description,
                 timestamp: Date.now()
