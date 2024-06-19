@@ -1,54 +1,55 @@
 {
     "khodams": [
         {
-            "khodamName": "Khodam Kucing",
-            "power": "Menghilang dan muncul tiba-tiba",
-            "description": "Khodam ini suka bermain dan menghilang tiba-tiba untuk membuat kejutan."
+            "name": "Kucing Koplak",
+            "power": "Hilang-muncul tiba-tiba",
+            "description": "Khodam ini suka tiba-tiba ngilang kayak mantan, terus muncul lagi bikin kaget!"
         },
         {
-            "khodamName": "Khodam Kelinci",
-            "power": "Melompat sangat tinggi",
-            "description": "Khodam ini dapat melompat sangat tinggi dan sangat cepat."
+            "name": "Kelinci Kampret",
+            "power": "Lompat super tinggi",
+            "description": "Khodam ini lompatnya tinggi banget, kayak ekspektasi pas liat diskon 99%!"
         },
         {
-            "khodamName": "Khodam Panda",
+            "name": "Panda Pansos",
             "power": "Menggemaskan musuh",
-            "description": "Khodam ini bisa membuat musuh menjadi gemas dan tidak bisa menyerang."
+            "description": "Khodam ini bikin musuh jadi gemas dan males nyerang karena keimutannya yang melebihi filter IG!"
         },
         {
-            "khodamName": "Khodam Bebek",
-            "power": "Mengeluarkan suara yang lucu",
-            "description": "Khodam ini dapat mengeluarkan suara yang sangat lucu sehingga bisa mengalihkan perhatian musuh."
+            "name": "Bebek Baper",
+            "power": "Suara kwek kwek ngocol",
+            "description": "Khodam ini kwek kweknya bisa bikin ketawa sampe perut sakit, cocok buat ngusir baper!"
         },
         {
-            "khodamName": "Khodam Koala",
-            "power": "Tidur di mana saja",
-            "description": "Khodam ini bisa tidur di mana saja dan kapan saja, membuatnya sulit ditemukan."
+            "name": "Koala Koce",
+            "power": "Tidur di mana aja",
+            "description": "Khodam ini bisa tidur di mana aja, kapan aja, kayak mahasiswa habis begadang tugas!"
         },
         {
-            "khodamName": "Khodam Domba",
-            "power": "Bulu lembut yang menenangkan",
-            "description": "Khodam ini memiliki bulu yang sangat lembut dan bisa menenangkan siapa saja yang menyentuhnya."
+            "name": "Domba Modyan",
+            "power": "Bulu lembut menggemaskan",
+            "description": "Khodam ini bulunya lembut kayak bantal bulu angsa, bikin pengen dipeluk terus!"
         },
         {
-            "khodamName": "Khodam Gajah Mini",
-            "power": "Kekuatan besar dalam tubuh kecil",
-            "description": "Khodam ini terlihat kecil tapi memiliki kekuatan yang sangat besar."
+            "name": "Gajah Geblek",
+            "power": "Kekuatan super",
+            "description": "Meskipun kecil, khodam ini punya kekuatan gede banget, kayak badak yang nyasar di taman bermain!"
         },
         {
-            "khodamName": "Khodam Burung Hantu",
-            "power": "Penglihatan malam yang tajam",
-            "description": "Khodam ini bisa melihat dengan sangat jelas di malam hari."
+            "name": "Burung Hantu Halu",
+            "power": "Penglihatan malam tajam",
+            "description": "Khodam ini bisa lihat dalam gelap, kayak kamu yang suka ngehalu kalo tengah malam!"
         },
         {
-            "khodamName": "Khodam Rusa",
-            "power": "Lari cepat dan lincah",
-            "description": "Khodam ini sangat cepat dan lincah, sulit untuk ditangkap."
+            "name": "Rusa Lusuh",
+            "power": "Lari cepat banget",
+            "description": "Khodam ini larinya cepet banget, kayak bocil rusuh dikasih gula kapas!"
         },
         {
-            "khodamName": "Khodam Penguin",
+            "name": "Penguin Pengen",
             "power": "Tahan dingin",
-            "description": "Khodam ini bisa bertahan dalam suhu yang sangat dingin dan tetap aktif."
+            "description": "Khodam ini tahan dingin banget, kayak kamu yang kalo tidur gak bisa tanpa AC!"
         }
     ]
 }
+
